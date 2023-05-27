@@ -23,22 +23,27 @@ CSS: Used for styling the application's components and creating a visually appea
 
 
 ## Home Page - 
+![Screenshot (482)](https://github.com/nutankumari211/OldPeopleFitnessApp/assets/31533479/42808d47-dee0-4f2e-a64b-5eeff08028fe)
 
 
 
 ## Search for exercise? or wanna know which exercise to perform in order to train a particular body part?
+![Screenshot (483)](https://github.com/nutankumari211/OldPeopleFitnessApp/assets/31533479/8f71ad47-ce71-4a02-91ee-6f8829f8838f)
 
 
 
 ## Let's Explore some exercises....
 
+![Screenshot (484)](https://github.com/nutankumari211/OldPeopleFitnessApp/assets/31533479/305224a0-56ee-4c82-a39b-54c15ade5d52)
 
 
 ## Still confused on how to perform the exercise? Don't worry here's few youtube video links!
 
+![Screenshot (485)](https://github.com/nutankumari211/OldPeopleFitnessApp/assets/31533479/62d9b794-4bfd-44ac-acd0-4958d7658bca)
 
 
 ## Similar target muscle / equipment exercises
+![Screenshot (486)](https://github.com/nutankumari211/OldPeopleFitnessApp/assets/31533479/66ff6cda-9435-4fb2-aac0-6a6b88b59511)
 
 
 # Installation and Setup
